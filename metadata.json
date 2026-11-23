@@ -1,0 +1,6 @@
+{
+  "name": "Özel Dental House Ağız ve Diş Sağlığı Polikliniği",
+  "description": "Elazığ Özel Dental House Ağız ve Diş Sağlığı Polikliniği — Gülüş tasarımı, implant, zirkonyum, lamina, ortodonti ve estetik diş hekimliği hizmetleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
